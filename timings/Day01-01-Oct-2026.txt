@@ -1,0 +1,29 @@
+----------------------------------------
+# What I did today
+
+# DevOps
+# Revised/learned the major DevOps tools and their purpose.
+
+# AWS / EC2
+# Learned how to work with an EC2 instance.
+# Learned EC2 Security Groups and IAM Roles.
+
+# Git & GitHub
+# Learned how to connect an EC2 instance with GitHub.
+# Practiced creating files and directories using Linux commands.
+# Practiced vim and pushing files to a GitHub repository.
+
+# PuTTY
+# Learned the basics of connecting to a Linux/EC2 server using PuTTY.
+
+# Networking
+# Learned OSI model basics.
+# Learned IP addressing and CIDR notation.
+
+## Tomorrow's Task
+# Continue Linux/Git/GitHub practice
+# Revise AWS EC2, Security Groups and IAM
+# Practice OSI, IP and CIDR
+# Continue DevOps tools revision
+
+----------------------------------------
