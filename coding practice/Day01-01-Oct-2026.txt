@@ -1,0 +1,53 @@
+# Day 01 - Coding Practice
+
+## Linux / Git Practice
+
+1. Create a practice directory:
+   mkdir -p ~/pathnex/day01
+
+2. Create a file:
+   vim ~/pathnex/day01/notes.txt
+
+3. Add text, save and exit vim:
+   :wq
+
+4. Initialize a Git repository:
+   git init
+
+5. Check repository status:
+   git status
+
+6. Add files:
+   git add .
+
+7. Commit:
+   git commit -m "Day01 practice"
+
+8. Check branches:
+   git branch
+
+9. Check remote:
+   git remote -v
+
+10. Push changes:
+    git push
+
+## Networking Practice
+
+- OSI has 7 layers:
+  Application, Presentation, Session, Transport, Network, Data Link, Physical.
+- IPv4 address example: 192.168.1.10
+- CIDR example: 192.168.1.0/24
+- /24 provides 256 total IPv4 addresses (254 commonly usable in a traditional subnet).
+
+## AWS Practice
+
+- EC2: compute service.
+- Security Group: stateful virtual firewall for supported AWS resources.
+- IAM Role: identity/permissions that can be attached to AWS resources such as EC2.
+
+## GitHub Practice
+
+- Connect EC2 to GitHub using SSH.
+- Use an SSH key such as Ed25519.
+- Add, commit and push changes.
